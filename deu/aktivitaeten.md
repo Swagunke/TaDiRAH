@@ -75,7 +75,7 @@ Bearbeiten
 ----------
 Bearbeiten bezeichnet das Explizit-Machen struktureller, Layout-spezifischer, semantischer oder sonstiger Informationen über einen bestimmten Teil eines Dokuments durch das Hinzufügen (inline oder stand-off) von Markup. Häufig erfolgt es im Rahmen der übergeordneten Aktivität des wissenschaftlichen Edierens textlicher, musikalischer oder sonstiger Quellen. Es baut auf der Transkription eines Dokuments auf (dem Ergebnis von Data Recognition) und wird vom Modell des Dokuments geleitet (das Ergebnis der Modellierung).
 
-4 - Analyse
+4 - Analysieren
 ============
 Dieses allgemeine Forschungsziel bezieht sich auf die Aktivität des Extrahierens jeglicher Information aus offenen, geschlossenen, strukturierten oder unstrukturierten Datensammlungen, auf das Entdecken wiederkehrender Phänomene, Einheiten, Elemente, Muster, Gruppen und ähnlichem. Es kann sich auf strukturelle, formale oder semantische Aspekte von Daten beziehen. Die Analyse schließt auch Methoden ein, welche zur Visualisierung der Ergebnisse verwendet werden. Methoden und Techniken zur Analyse schließen oftmals an die Ergebnisse von Erfassen und Anreichern an; das Anreichern  hängt dabei jedoch von Vorannahmen, Forschungsfragen und Analyse-Ergebnissen ab.
 
@@ -107,7 +107,7 @@ Visualisierung
 ----------
 Visualisierung bezieht sich auf Aktivitäten, die zur Zusammenfassung und grafischen Präsentation von  Daten dienen und diese grafischen Formen analytisch verwenden, um z.B. Muster, Strukturen oder interessante Aspekte in den dahinterliegenden Daten zu entdecken. Dabei kann jegliche Art von Daten visualisiert werden und Visualisierungen können in Form von Bildern, Karten, Zeitleisten, Graphen, Tabellen o.ä. umgesetzt werden. Einschlägige Techniken umfassen Plotten und Kartieren.
 
-5 - Interpretation
+5 - Interpretieren
 ============
 Durch die Interpretation wird den im Zuge der Analyse betrachteten Phänomenen Bedeutung zugeschrieben. Für gewöhnlich folgt Interpretation daher auf die Analyse, wobei man auch der Auffassung sein kann, dass die Interpretation die hermeneutische Perspektive jeglicher Analysemethode definiert. 
 
@@ -123,7 +123,7 @@ Theoriebildung
 ----------
 Theoriebildung ist eine Methode, die darauf abzielt, eine Anzahl von Elementen oder Ideen in einem kohärenten System miteinander in Beziehung zu setzen. Das System basiert dabei auf allgemeinen Prinzipien und ist in der Lage, relevante Phänomene und Beobachtungen zu erklären. Theoriebildung stützt sich auf Techniken wie Argumentation, abstraktes Denken, Konzeptualisierung und Definition. Eine Theorie kann in Form eines Modells implementiert werden, ein Modell kann jedoch auch den Anstoß zur Formulierung einer Theorie geben.
 
-6 - Speicherung
+6 - Speichern
 ============
 Speicherung (Storage) bezieht sich auf die Aktivität des Herstellens digitaler Kopien von untersuchten Objekten, Forschungsergebnissen oder Software und Diensten sowie ihre nachhaltige Erreichbarkeit. Die gespeicherten Dateien müssen nicht notwendigerweise öffentlich zur Verfügung stehen.
 
@@ -143,7 +143,7 @@ Konservierung
 ----------
 Konservierung ist das Anwenden bestimmter Strategien, Aktivitäten und Technologien mit dem Ziel, eine genaue Wiedergabe des digitalen Content auch zukünftig zu gewährleisten. Es erleichtert das Wiederverwenden von Forschungsdaten, (Forschungs)Objekten und verwandten Ressourcen und kann Aktivitäten einschließen, die sich mit Nachhaltigkeit und Interoperabilität befassen. Zu den relevanten Techniken gehören unter anderem Bitstream Preservation, Durable Persistent Media, Emulation, Hinzufügen von Metadaten, Datenmigration, Replikation, Technologiekonservierung, Versionierung, der Gebrauch von Offenen Archiv-Informations-Systemen und Standards, die Interoperabilität unterstützen.
 
-7 - Dissemination
+7 - Disseminieren
 ============
 Dissemination bezieht sich auf die Aktivität, Untersuchungsgegenstände, Forschungsergebnisse, Software oder Services anderen Forschenden oder einer breiteren Öffentlichkeit auf mehr oder weniger formale Weise zur Verfügung zu stellen. Dissemination beruht auf der Speicherung und kann das Veröffentlichen oder Teilen von Daten beinhalten, wobei eine große Bandbreite von Methoden und Techniken relevant ist, zu denen unter anderem die Anwendung von Linked Open Data gehört.
 
